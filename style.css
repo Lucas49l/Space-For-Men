@@ -138,7 +138,7 @@ nav a:hover {
 
 footer {
     text-align: center; 
-    background-image: url(/img/fundo-footer.jpg); 
+    background-image: url('img/fundo-footer.jpg'); 
     padding: 40px 0; 
 }
 
